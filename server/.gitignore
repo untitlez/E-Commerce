@@ -1,1 +1,11 @@
+# yaml
 config.yaml
+docker-compose.yml
+
+
+# production
+/build
+
+
+# env files (can opt-in for committing if needed)
+.env
